@@ -1,0 +1,12 @@
+{
+  "flaekli": {
+    "ration_total": 150,
+    "ration_left": 100.0,
+    "accuracy": 94
+  },
+  "bruno": {
+    "ration_total": 200,
+    "ration_left": -1.0,
+    "accuracy": 92
+  }
+}
